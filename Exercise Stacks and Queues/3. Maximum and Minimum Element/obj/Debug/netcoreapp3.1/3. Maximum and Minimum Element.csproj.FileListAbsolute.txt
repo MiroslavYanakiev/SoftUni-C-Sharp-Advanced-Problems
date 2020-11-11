@@ -1,0 +1,12 @@
+C:\Users\fff\source\repos\Exercise Stacks and Queues\3. Maximum and Minimum Element\bin\Debug\netcoreapp3.1\3. Maximum and Minimum Element.exe
+C:\Users\fff\source\repos\Exercise Stacks and Queues\3. Maximum and Minimum Element\bin\Debug\netcoreapp3.1\3. Maximum and Minimum Element.deps.json
+C:\Users\fff\source\repos\Exercise Stacks and Queues\3. Maximum and Minimum Element\bin\Debug\netcoreapp3.1\3. Maximum and Minimum Element.runtimeconfig.json
+C:\Users\fff\source\repos\Exercise Stacks and Queues\3. Maximum and Minimum Element\bin\Debug\netcoreapp3.1\3. Maximum and Minimum Element.runtimeconfig.dev.json
+C:\Users\fff\source\repos\Exercise Stacks and Queues\3. Maximum and Minimum Element\bin\Debug\netcoreapp3.1\3. Maximum and Minimum Element.dll
+C:\Users\fff\source\repos\Exercise Stacks and Queues\3. Maximum and Minimum Element\bin\Debug\netcoreapp3.1\3. Maximum and Minimum Element.pdb
+C:\Users\fff\source\repos\Exercise Stacks and Queues\3. Maximum and Minimum Element\obj\Debug\netcoreapp3.1\3. Maximum and Minimum Element.AssemblyInfoInputs.cache
+C:\Users\fff\source\repos\Exercise Stacks and Queues\3. Maximum and Minimum Element\obj\Debug\netcoreapp3.1\3. Maximum and Minimum Element.AssemblyInfo.cs
+C:\Users\fff\source\repos\Exercise Stacks and Queues\3. Maximum and Minimum Element\obj\Debug\netcoreapp3.1\3. Maximum and Minimum Element.csproj.CoreCompileInputs.cache
+C:\Users\fff\source\repos\Exercise Stacks and Queues\3. Maximum and Minimum Element\obj\Debug\netcoreapp3.1\3. Maximum and Minimum Element.dll
+C:\Users\fff\source\repos\Exercise Stacks and Queues\3. Maximum and Minimum Element\obj\Debug\netcoreapp3.1\3. Maximum and Minimum Element.pdb
+C:\Users\fff\source\repos\Exercise Stacks and Queues\3. Maximum and Minimum Element\obj\Debug\netcoreapp3.1\3. Maximum and Minimum Element.genruntimeconfig.cache

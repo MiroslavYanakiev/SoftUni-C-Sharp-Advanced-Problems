@@ -1,0 +1,13 @@
+C:\Users\fff\source\repos\Exercise Stacks and Queues\7. Truck Tour\bin\Debug\netcoreapp3.1\7. Truck Tour.exe
+C:\Users\fff\source\repos\Exercise Stacks and Queues\7. Truck Tour\bin\Debug\netcoreapp3.1\7. Truck Tour.deps.json
+C:\Users\fff\source\repos\Exercise Stacks and Queues\7. Truck Tour\bin\Debug\netcoreapp3.1\7. Truck Tour.runtimeconfig.json
+C:\Users\fff\source\repos\Exercise Stacks and Queues\7. Truck Tour\bin\Debug\netcoreapp3.1\7. Truck Tour.runtimeconfig.dev.json
+C:\Users\fff\source\repos\Exercise Stacks and Queues\7. Truck Tour\bin\Debug\netcoreapp3.1\7. Truck Tour.dll
+C:\Users\fff\source\repos\Exercise Stacks and Queues\7. Truck Tour\bin\Debug\netcoreapp3.1\7. Truck Tour.pdb
+C:\Users\fff\source\repos\Exercise Stacks and Queues\7. Truck Tour\obj\Debug\netcoreapp3.1\7. Truck Tour.csprojAssemblyReference.cache
+C:\Users\fff\source\repos\Exercise Stacks and Queues\7. Truck Tour\obj\Debug\netcoreapp3.1\7. Truck Tour.AssemblyInfoInputs.cache
+C:\Users\fff\source\repos\Exercise Stacks and Queues\7. Truck Tour\obj\Debug\netcoreapp3.1\7. Truck Tour.AssemblyInfo.cs
+C:\Users\fff\source\repos\Exercise Stacks and Queues\7. Truck Tour\obj\Debug\netcoreapp3.1\7. Truck Tour.csproj.CoreCompileInputs.cache
+C:\Users\fff\source\repos\Exercise Stacks and Queues\7. Truck Tour\obj\Debug\netcoreapp3.1\7. Truck Tour.dll
+C:\Users\fff\source\repos\Exercise Stacks and Queues\7. Truck Tour\obj\Debug\netcoreapp3.1\7. Truck Tour.pdb
+C:\Users\fff\source\repos\Exercise Stacks and Queues\7. Truck Tour\obj\Debug\netcoreapp3.1\7. Truck Tour.genruntimeconfig.cache
